@@ -199,7 +199,7 @@ class MovieDialog(
     private fun buildDialog(btnText1: String, btnText2: String
                             , positiveButton: () -> Unit, negativeButton: () -> Unit): Dialog =
         AlertDialog.Builder(requireContext()).setView(binding.root)
-            .setTitle(if(newMovie) getString(R.string.dialog_title) else getString(R.string.dialog_update))
+            .setTitle(if(newMovie) getString(R.string.dialog_new_movie) else getString(R.string.dialog_update))
             .setPositiveButton(btnText1) { _, _ ->
                 positiveButton()
             }

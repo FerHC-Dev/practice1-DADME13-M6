@@ -26,6 +26,7 @@
     <string name="movie_error">Ocurrio un error, vuelve a intentarlo.</string>
     <string name="movie_not_added">Accion cancelada.</string>
     <string name="dialog_update">Actualizar</string>
+    <string name="dialog_new_movie">Nueva pelicula</string>
     <string name="dialog_delete">Eliminar?</string>
     <string name="question_delete">Deseas eliminar la pelicula %s?</string>
 
