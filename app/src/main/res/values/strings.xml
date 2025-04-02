@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MovieBD</string>
+    <string name="action_settings">Añadir</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="img_desc">Imagen</string>
+    <string name="home_empty">¡No hay registros!</string>
+
+    <string name="dialog_title">Titulo</string>
+    <string name="dialog_genre">Género</string>
+    <string name="dialog_director">Director</string>
+    <string name="dialog_year">Año</string>
+
+    <string name="element_title">Titulo de la pelicula</string>
+    <string name="element_genre">Género</string>
+    <string name="element_director">Director</string>
+    <string name="element_year">Año</string>
+
+    <string name="btn_add">Guardar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="btn_update">Actualizar</string>
+    <string name="movie_added">Pelicula guardada exitosamente.</string>
+    <string name="movie_updated">Pelicula actualizada exitosamente.</string>
+    <string name="movie_deleted">Pelicula eliminada exitosamente.</string>
+    <string name="movie_error">Ocurrio un error, vuelve a intentarlo.</string>
+    <string name="movie_not_added">Accion cancelada.</string>
+    <string name="dialog_update">Actualizar</string>
+    <string name="dialog_delete">Eliminar?</string>
+    <string name="question_delete">Deseas eliminar la pelicula %s?</string>
+
+    <array name="spinner_items">
+        <item>Selecciona genero</item>
+        <item>Acción</item>
+        <item>Comedia</item>
+        <item>Horror</item>
+        <item>Misterio</item>
+        <item>Romance</item>
+        <item>Otro</item>
+    </array>
+
+
+</resources>
